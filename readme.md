@@ -44,6 +44,8 @@
     - [4.3 IPFS 项目内 看看有哪些家族成员(二) `repo`](#43-ipfs-%E9%A1%B9%E7%9B%AE%E5%86%85-%E7%9C%8B%E7%9C%8B%E6%9C%89%E5%93%AA%E4%BA%9B%E5%AE%B6%E6%97%8F%E6%88%90%E5%91%98%E4%BA%8C-repo)
 - [用户角度的ipfs](#%E7%94%A8%E6%88%B7%E8%A7%92%E5%BA%A6%E7%9A%84ipfs)
   - [开节点, 就是用户](#%E5%BC%80%E8%8A%82%E7%82%B9-%E5%B0%B1%E6%98%AF%E7%94%A8%E6%88%B7)
+  - [普通人不会总开节点](#%E6%99%AE%E9%80%9A%E4%BA%BA%E4%B8%8D%E4%BC%9A%E6%80%BB%E5%BC%80%E8%8A%82%E7%82%B9)
+  - [filecoin](#filecoin)
 - [官方文献](#%E5%AE%98%E6%96%B9%E6%96%87%E7%8C%AE)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
@@ -213,7 +215,7 @@ ipfs 作为 p2p 网络, 每个节点都是平等的,
 
 一句话说， `filecoin`是 奖赏给 长期提供节点的用户的 比特币, 衡量的标准是 提供/上传/存储 数据
 
-> 不过听说, 下载也需要 `filecoin` , 我觉得这点上, 中国不太能接送, 毕竟我们太多免费的了
+> 不过听说, 下载也需要 `filecoin` , 我觉得这点上, 中国不太能接·受 毕竟我们太多免费的了
 
 
 ## 官方文献
