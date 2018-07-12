@@ -6,9 +6,7 @@
 
 这段路程会很长很长
 
-[github source](https://github.com/ipfs)
-
-[中文](./readme.md) | [english](https://github.com/ipfs/ipfs)
+[团队 github ipfs](https://github.com/ipfs)
 
 欢迎 `Issue` 和 `Pull` ❤️, 最好 `Pull` 👏
 
@@ -51,6 +49,7 @@
 - [深入 ipfs](#%E6%B7%B1%E5%85%A5-ipfs)
 - [官方文献](#%E5%AE%98%E6%96%B9%E6%96%87%E7%8C%AE)
   - [1. 白皮书](#1-%E7%99%BD%E7%9A%AE%E4%B9%A6)
+  - [2. repos](#2-repos)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
@@ -256,3 +255,9 @@ ipfs 作为 p2p 网络, 每个节点都是平等的,
 - `ipfs的白皮书` [中文](https://gguoss.github.io/2017/05/28/ipfs/) | [原文 en](https://github.com/ipfs/papers/raw/master/ipfs-cap2pfs/ipfs-p2p-file-system.pdf)
 
 - `filecoin的白皮书` [中文](http://chainx.org/paper/index/index/id/13.html) | [原文 en](https://filecoin.io/filecoin.pdf)
+
+### 2. repos
+
+- `ipfs/ipfs md文档` [中文](https://github.com/chinanf-boy/ipfs-zh)
+
+- `ipfs/go-ipfs md文档` [中文](https://github.com/chinanf-boy/go-ipfs-zh)
