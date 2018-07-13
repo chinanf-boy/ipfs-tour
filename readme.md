@@ -47,6 +47,7 @@
   - [4. 普通人不会总开节点](#4-%E6%99%AE%E9%80%9A%E4%BA%BA%E4%B8%8D%E4%BC%9A%E6%80%BB%E5%BC%80%E8%8A%82%E7%82%B9)
 - [filecoin](#filecoin)
 - [深入 ipfs](#%E6%B7%B1%E5%85%A5-ipfs)
+- [新型公司](#%E6%96%B0%E5%9E%8B%E5%85%AC%E5%8F%B8)
 - [官方文献](#%E5%AE%98%E6%96%B9%E6%96%87%E7%8C%AE)
   - [1. 白皮书](#1-%E7%99%BD%E7%9A%AE%E4%B9%A6)
   - [2. repos](#2-repos)
@@ -247,6 +248,17 @@ ipfs 作为 p2p 网络, 每个节点都是平等的,
 我们拿 `go-ipfs` 来开刀 explain,
 
 > 此章节会去到另一个 [repo:chinanf-boy/go-ipfs-explain](https://github.com/chinanf-boy/go-ipfs-explain)
+
+## 新型公司
+
+- `Akasha` 下一代社交网络
+- `Balance3` 一个三重进入的会计平台
+- `BlockFreight` 一个全球货运的开放网络
+- `Digix` 一个标记物理黄金的平台
+- `Infura` 的基础设施提供商
+- `Livepeer` 一个分散的实时视频流媒体平台
+- `Origin` 共享经济的点对点市场
+- `uPort` 一种自我主权身份系统
 
 ## 官方文献
 
