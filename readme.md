@@ -249,7 +249,21 @@ ipfs 作为 p2p 网络, 每个节点都是平等的,
 
 > 此章节会去到另一个 [repo:chinanf-boy/go-ipfs-explain](https://github.com/chinanf-boy/go-ipfs-explain)
 
-## 新型公司
+## 其他
+
+### 博客文
+
+> 放在 [people-say](./people-say) 中
+
+校对🀄️
+
+- [ ] [分散经济：分析原产地议定书 「上」](./people-say/medium.com/decentralizing-the-sharing-economy-a-review-of-the-origin-protocol-bf0003334233.zh.md)
+- [ ] [IPFS初学者指南 「下」](./people-say/hackernoon.com/a-beginners-guide-to-ipfs-20673fedd3f.zh.md)
+- [ ] [构建一个简单的以太坊+行星际文件系统（IPFS）+ React.js DApp](./people-say/itnext.io/build-a-simple-ethereum-interplanetary-file-system-ipfs-react-js-dapp-23ff4914ce4e.zh.md)
+- [ ] [IPFS简介](./people-say/medium.com/an-introduction-to-ipfs-9bba4860abd0.zh.md)
+- [ ] [如何永久在线托管您的IPFS文件](./people-say/medium.com/how-to-host-your-ipfs-files-online-forever-f0c56b9b5398.zh.md)
+
+### 新型公司
 
 - `Akasha` 下一代社交网络
 - `Balance3` 一个三重进入的会计平台
